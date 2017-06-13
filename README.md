@@ -22,3 +22,5 @@ evgeny.lityushkin@gmail.com
 
 Дополнение к Занятие 4 - 5 https://docs.google.com/document/d/11WR-iQXBJ1LMKz8sWUEVq7HKzAhD3hycIXKJvIiSBxQ/edit?usp=sharing
 
+План работ.txt - пример плана работ, на примере отключения модулюя apache
+

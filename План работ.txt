@@ -1,0 +1,29 @@
+0. Заходим на сервер, далее всё делаем в screen
+
+1. Проверяем текущее состояние apache
+
+netstat -lptn |grep apache
+
+2.  Запрещаем модуль moddeflate
+
+a2dismod moddeflate
+
+3. Проверяем отключение модуля по отсутсвию ссылки в папке
+
+ls -lt /etc/apache2/mods-enabled/*deflate*
+
+4. Перезагружаем apache
+
+service apache2 stop
+
+netstat -lptn |grep apache
+
+service apache2 start
+
+5. Проверяем текущее состояние apache
+
+netstat -lptn |grep apache
+
+6. Проверяем что пишеться в журнал
+
+tail /var/log/apache2/webchannel/mod_security_log/audit.log
