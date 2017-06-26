@@ -24,7 +24,9 @@ evgeny.lityushkin@gmail.com
 
 План работ.txt - пример плана работ, на примере отключения модулюя apache
 
-Переезд-ip-haproxy - пример плана работ, переезд ip адреса между haproxy серверами проксирующими galera кластер
+Переезд-ip-haproxy https://github.com/evgeny-lityushkin/Linux-lessons/blob/master/%D0%9F%D0%B5%D1%80%D0%B5%D0%B5%D0%B7%D0%B4-ip-haproxy - пример плана работ, переезд ip адреса между haproxy серверами проксирующими galera кластер
+
+(https://docs.google.com/document/d/1E1SVaXSOv5goDLQ0-TGZGDkSY6ZCSJXxFVylEqnRlJc/edit?usp=sharing)
 
 
 Инструкция по настройке VPN Ubuntu 0.0.1.odt https://github.com/evgeny-lityushkin/Linux-lessons/blob/master/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F%20%D0%BF%D0%BE%20%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B5%20VPN%20Ubuntu%200.0.1.odt  - пример инструкции по настройке VPN для администраторов работающих удалённо
