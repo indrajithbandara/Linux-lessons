@@ -9,6 +9,8 @@ Author - Eugene Lityushkin 2017
 evgeny.lityushkin@gmail.com
 
 
+https://drive.google.com/drive/folders/0B1LJs73TOqU3WnFfcE5uSXhTMnc?usp=sharing
+
 
 Уроки Linux для первой линии технической поддержки
 
@@ -31,6 +33,10 @@ evgeny.lityushkin@gmail.com
 
 Инструкция по настройке VPN Ubuntu 0.0.1.odt https://github.com/evgeny-lityushkin/Linux-lessons/blob/master/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F%20%D0%BF%D0%BE%20%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B5%20VPN%20Ubuntu%200.0.1.odt  - пример инструкции по настройке VPN для администраторов работающих удалённо
 
-Инструкция по обновлению ПО.odt https://github.com/evgeny-lityushkin/Linux-lessons/blob/master/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F%20%D0%BF%D0%BE%20%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8E%20%D0%9F%D0%9E.odt - пример инструкций по обновлнию ПО вручную и с применением ansible (playbook внутри документа)
+Инструкция по обновлению ПО.odt 
+
+https://docs.google.com/document/d/1mB5oACnCEEu59a5mDl0czHLARxx6kmO_z7ZFJ_QSL7U/edit?usp=sharing
+
+https://github.com/evgeny-lityushkin/Linux-lessons/blob/master/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F%20%D0%BF%D0%BE%20%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8E%20%D0%9F%D0%9E.odt - пример инструкций по обновлнию ПО вручную и с применением ansible (playbook внутри документа)
 
 
